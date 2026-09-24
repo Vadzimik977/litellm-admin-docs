@@ -41,7 +41,6 @@ nav = [
         { "User Activity" = "litellm-integration/admin-user-activity.md" },
       ]},
     ]},
-    { "Kafka Spend Log" = "litellm-integration/kafka_spend_log.md" },
   ]},
 ]
 

@@ -1,6 +1,6 @@
 # LiteLLM Auth & Billing Flow
 
-How Auto AI Router authenticates a request against a LiteLLM Postgres database, enforces budgets/rate limits/model access, and logs spend afterwards. See [litellm_db.md](litellm_db.md) for connection/config basics and [kafka_spend_log.md](kafka_spend_log.md) for the analytics write-path.
+How Auto AI Router authenticates a request against a LiteLLM Postgres database, enforces budgets/rate limits/model access, and logs spend afterwards. See [litellm_db.md](litellm_db.md) for connection/config basics
 
 ## Overview
 
