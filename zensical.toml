@@ -15,6 +15,7 @@ nav = [
       { "Organizations" = "litellm-integration/admin-organizations.md" },
       { "API Keys" = "litellm-integration/admin-keys.md" },
       { "Models" = "litellm-integration/admin-models.md" },
+      { "Цены моделей" = "litellm-integration/admin-pricing.md" },
       { "Budgets" = "litellm-integration/admin-budgets.md" },
       { "Logs" = "litellm-integration/admin-logs.md" },
       { "Settings" = "litellm-integration/admin-settings.md" },
